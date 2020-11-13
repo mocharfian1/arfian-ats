@@ -14,8 +14,6 @@
   <link rel="stylesheet" href="./assets/adminlte/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
   <!-- iCheck -->
   <link rel="stylesheet" href="./assets/adminlte/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
-  <!-- JQVMap -->
-  <link rel="stylesheet" href="./assets/adminlte/plugins/jqvmap/jqvmap.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="./assets/adminlte/dist/css/adminlte.min.css">
   <!-- overlayScrollbars -->
@@ -1039,9 +1037,6 @@
 <script src="./assets/adminlte/plugins/chart.js/Chart.min.js"></script>
 <!-- Sparkline -->
 <script src="./assets/adminlte/plugins/sparklines/sparkline.js"></script>
-<!-- JQVMap -->
-<script src="./assets/adminlte/plugins/jqvmap/jquery.vmap.min.js"></script>
-<script src="./assets/adminlte/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
 <!-- jQuery Knob Chart -->
 <script src="./assets/adminlte/plugins/jquery-knob/jquery.knob.min.js"></script>
 <!-- daterangepicker -->
